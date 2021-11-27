@@ -1,16 +1,31 @@
-### Hi there 👋
+### Gidday 👋
 
-<!--
-**mcdiarmid/mcdiarmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 RF Engineer at Rocket Lab 
+- 🎓 Education
+  - Bachelor of Engineering (1st Class Hons.) in Electrical and Electronic Engineering
+  - Master of Engineering (Distinction) in Electrical and Electronic Engineering
+- 🐍 Huge Python enthusiast - notable usecases to date:
+  - UAV mesh networking
+  - Real-time processing
+    - Digital Signal processing with GNURadio
+    - Descrambling, foreward error correction, cyclic redundancy checking
+    - Bit Error Rate tester
+  - Basic control system simulations
+    - Inverted pendulum stabilization with variable mass
+    - Three carts connected with springs and dampeners
+    - Model helicopter altitude and yaw control
+  - Time-series data presentation, analysis, and modelling
+  - Instrumentation control and monitoring
+    - Spectrum Analyzers and Power Supplies with PyVISA
+    - Various systems via REST interfaces
+  - Prototyping concepts before implementation in C++ where performance is critical
+  - Hardware test automation
+- 👯 I’m keen to collaborate on **anything that takes my interest** where my knowledge and experience could be of use!
+- 📘 Weaker skills I'm keen to build on
+  - C
+  - C++
+  - Game development
+  - Verilog or VHDL for FPGA implementation of signal processing components
+  - Basic PCB design
+  - Data oriented programming (DOP)
+  - Python GUI development
