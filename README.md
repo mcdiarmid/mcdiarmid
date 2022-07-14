@@ -4,6 +4,8 @@
 
 🎓 Master of Engineering and Bachelor of Engineering (Hons.), both in Electrical and Electronic Engineering
 
+👍 Keen to contribute and add value to the vast open source software ecosystem 
+
 ### Stuff I Use
 
 <a href="https://www.python.org/" ><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></a>
@@ -17,5 +19,7 @@
 <a href="https://archlinux.org/" ><img align="left" alt="Archlinux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" /></a>
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
+<img align="left" alt="Qt" width="26px" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 
 <br />
