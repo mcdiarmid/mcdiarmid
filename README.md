@@ -19,6 +19,7 @@
 <a href="https://archlinux.org/" ><img align="left" alt="Archlinux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" /></a>
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
+<img align="left" alt="Rust" width="26px" src="https://github.com/github/explore/blob/main/topics/rust/rust.png" />
 <img align="left" alt="Qt" width="26px" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 
