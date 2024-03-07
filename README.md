@@ -1,6 +1,6 @@
 ### Gidday 👋
 
-💼 Radio Fequency Engineer at Rocket Lab 
+💼 Embedded Software Engineer, formerly a Radio Fequency Engineer
 
 🎓 Master of Engineering and Bachelor of Engineering (Hons.), both in Electrical and Electronic Engineering
 
