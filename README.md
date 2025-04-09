@@ -1,17 +1,21 @@
-### Gidday 👋
+## Hello There 👋
 
-💼 Embedded Software Engineer, formerly a Radio Fequency Engineer
+💼 Radio Fequency Engineer at Rocket Lab.  Briefly dabbled in Embedded Software Engineer at Aviat Networks.
 
-🎓 Master of Engineering and Bachelor of Engineering (Hons.), both in Electrical and Electronic Engineering
+🎓 Master of Engineering and Bachelor of Engineering (Hons.), both in Electrical and Electronic Engineering.
 
-🧠 Currently learning Rust
+🧠 Currently learning to embrace LLMs.  Always furthering my understanding of digital signal processing (DSP).
 
-### Stuff I Use
+❤️ Might contribute to stuff sporadically.  Contact me if you want a hand with anything.
+
+🍺 Former Lion Brown enthusiast.  More recently a practitioner of the tasting paddle.
+
+
+## Stuff I Use
 
 <a href="https://www.python.org/" ><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></a>
 <a href="https://code.visualstudio.com/" ><img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://numpy.org/" ><img align="left" alt="NumPy" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" /></a>
-<a href="https://matplotlib.org/"><img align="left" alt="Matplotlib" width="26px" src="https://raw.githubusercontent.com/matplotlib/matplotlib/62978a2fc8c8e32e9954609796a7b91823d5630f/doc/_static/matplotlib-icon.svg" /></a>
 <a href="https://github.com/samuelcolvin/pydantic/"><img align="left" alt="Pydantic" width="26px" src="https://raw.githubusercontent.com/samuelcolvin/pydantic/master/docs/favicon.png" /></a>
 <a href="https://www.gnuradio.org/" ><img align="left" alt="GNURadio" width="26px" src="https://raw.githubusercontent.com/gnuradio/gnuradio/main/grc/gui/icon.png" /></a>
 <a href="https://ubuntu.com/" ><img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" /></a>
