@@ -1,14 +1,12 @@
 ## Hello There 👋
 
-💼 Radio Fequency Engineer at Rocket Lab.  Briefly dabbled in Embedded Software Engineer at Aviat Networks.
+💼 Radio Fequency Engineer at Rocket Lab.  Briefly dabbled in Embedded Software Engineering at Aviat Networks.
 
 🎓 Master of Engineering and Bachelor of Engineering (Hons.), both in Electrical and Electronic Engineering.
 
 🧠 Currently learning to embrace LLMs.  Always furthering my understanding of digital signal processing (DSP).
 
 ❤️ Might contribute to stuff sporadically.  Contact me if you want a hand with anything.
-
-🍺 Former Lion Brown enthusiast.  More recently a practitioner of the tasting paddle.
 
 
 ## Stuff I Use
