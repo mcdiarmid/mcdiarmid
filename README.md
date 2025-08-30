@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-💼 Radio Fequency Engineer at Rocket Lab.  Briefly dabbled in Embedded Software Engineering at Aviat Networks.
+💼 Radio Fequency Engineer at Rocket Lab.  Briefly dabbled in Embedded Software Engineering.
 
 🎓 Master of Engineering and Bachelor of Engineering (Hons.), both in Electrical and Electronic Engineering.
 
